@@ -18,6 +18,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+child: 
+  Image.network('https://via.placeholder.com/150'),
+
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
